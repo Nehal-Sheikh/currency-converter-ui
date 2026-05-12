@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://currency-converter-invgxdwct-nehal-sheikhs-projects.vercel.app'
+  apiUrl: 'https://currency-converter-api-mu.vercel.app/'
 };
